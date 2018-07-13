@@ -1,0 +1,99 @@
+warning: LF will be replaced by CRLF in Imre-dev/.idea/gradle.xml.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Imre-dev/.idea/misc.xml.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Imre-dev/.idea/modules.xml.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Imre-dev/.idea/runConfigurations.xml.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Imre-dev/.idea/workspace.xml.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Imre-dev/Imre-dev.iml.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in Imre-dev/app/app.iml.
+The file will have its original line endings in your working directory.
+[1mdiff --git a/Imre-dev/.gradle/4.4/fileHashes/fileHashes.bin b/Imre-dev/.gradle/4.4/fileHashes/fileHashes.bin[m
+[1mindex b6262d0..6f3215b 100644[m
+Binary files a/Imre-dev/.gradle/4.4/fileHashes/fileHashes.bin and b/Imre-dev/.gradle/4.4/fileHashes/fileHashes.bin differ
+[1mdiff --git a/Imre-dev/.gradle/4.4/fileHashes/fileHashes.lock b/Imre-dev/.gradle/4.4/fileHashes/fileHashes.lock[m
+[1mindex e1bfce1..87ffc72 100644[m
+Binary files a/Imre-dev/.gradle/4.4/fileHashes/fileHashes.lock and b/Imre-dev/.gradle/4.4/fileHashes/fileHashes.lock differ
+[1mdiff --git a/Imre-dev/.gradle/4.4/taskHistory/taskHistory.bin b/Imre-dev/.gradle/4.4/taskHistory/taskHistory.bin[m
+[1mindex dca353d..954e2ee 100644[m
+Binary files a/Imre-dev/.gradle/4.4/taskHistory/taskHistory.bin and b/Imre-dev/.gradle/4.4/taskHistory/taskHistory.bin differ
+[1mdiff --git a/Imre-dev/.gradle/4.4/taskHistory/taskHistory.lock b/Imre-dev/.gradle/4.4/taskHistory/taskHistory.lock[m
+[1mindex 4b24746..0443940 100644[m
+Binary files a/Imre-dev/.gradle/4.4/taskHistory/taskHistory.lock and b/Imre-dev/.gradle/4.4/taskHistory/taskHistory.lock differ
+[1mdiff --git a/Imre-dev/.gradle/buildOutputCleanup/buildOutputCleanup.lock b/Imre-dev/.gradle/buildOutputCleanup/buildOutputCleanup.lock[m
+[1mindex a61d76f..8b3b25a 100644[m
+Binary files a/Imre-dev/.gradle/buildOutputCleanup/buildOutputCleanup.lock and b/Imre-dev/.gradle/buildOutputCleanup/buildOutputCleanup.lock differ
+[1mdiff --git a/Imre-dev/.gradle/buildOutputCleanup/outputFiles.bin b/Imre-dev/.gradle/buildOutputCleanup/outputFiles.bin[m
+[1mindex f818c94..628c27c 100644[m
+Binary files a/Imre-dev/.gradle/buildOutputCleanup/outputFiles.bin and b/Imre-dev/.gradle/buildOutputCleanup/outputFiles.bin differ
+[1mdiff --git a/Imre-dev/.idea/caches/build_file_checksums.ser b/Imre-dev/.idea/caches/build_file_checksums.ser[m
+[1mindex 7d72a68..09d8b85 100644[m
+Binary files a/Imre-dev/.idea/caches/build_file_checksums.ser and b/Imre-dev/.idea/caches/build_file_checksums.ser differ
+[1mdiff --git a/Imre-dev/.idea/libraries/Gradle__android_arch_core_runtime_1_1_1.xml b/Imre-dev/.idea/libraries/Gradle__android_arch_core_runtime_1_1_1.xml[m
+[1mindex 40249dc..bc56369 100644[m
+[1m--- a/Imre-dev/.idea/libraries/Gradle__android_arch_core_runtime_1_1_1.xml[m
+[1m+++ b/Imre-dev/.idea/libraries/Gradle__android_arch_core_runtime_1_1_1.xml[m
+[36m@@ -1,8 +1,8 @@[m
+ <component name="libraryTable">[m
+   <library name="Gradle: android.arch.core:runtime-1.1.1">[m
+     <CLASSES>[m
+[31m-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/b74178ad3002308c45aeb47c0c18ea82/jars/classes.jar!/" />[m
+[31m-      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/b74178ad3002308c45aeb47c0c18ea82/res" />[m
+[32m+[m[32m      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/6c68e67f8fdf72e3955e15dfddbdb5ba/jars/classes.jar!/" />[m
+[32m+[m[32m      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/6c68e67f8fdf72e3955e15dfddbdb5ba/res" />[m
+     </CLASSES>[m
+     <JAVADOC />[m
+     <SOURCES>[m
+[1mdiff --git a/Imre-dev/.idea/libraries/Gradle__android_arch_lifecycle_livedata_core_1_1_1.xml b/Imre-dev/.idea/libraries/Gradle__android_arch_lifecycle_livedata_core_1_1_1.xml[m
+[1mindex 126038f..be6805b 100644[m
+[1m--- a/Imre-dev/.idea/libraries/Gradle__android_arch_lifecycle_livedata_core_1_1_1.xml[m
+[1m+++ b/Imre-dev/.idea/libraries/Gradle__android_arch_lifecycle_livedata_core_1_1_1.xml[m
+[36m@@ -1,8 +1,8 @@[m
+ <component name="libraryTable">[m
+   <library name="Gradle: android.arch.lifecycle:livedata-core-1.1.1">[m
+     <CLASSES>[m
+[31m-      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/06b2e28fa9b8f4c62f34682aea80ac14/res" />[m
+[31m-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/06b2e28fa9b8f4c62f34682aea80ac14/jars/classes.jar!/" />[m
+[32m+[m[32m      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/a4b494d7063cbe6c2c02307cc87889f9/jars/classes.jar!/" />[m
+[32m+[m[32m      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/a4b494d7063cbe6c2c02307cc87889f9/res" />[m
+     </CLASSES>[m
+     <JAVADOC />[m
+     <SOURCES>[m
+[1mdiff --git a/Imre-dev/.idea/libraries/Gradle__android_arch_lifecycle_runtime_1_1_1.xml b/Imre-dev/.idea/libraries/Gradle__android_arch_lifecycle_runtime_1_1_1.xml[m
+[1mindex a486c69..bbb5425 100644[m
+[1m--- a/Imre-dev/.idea/libraries/Gradle__android_arch_lifecycle_runtime_1_1_1.xml[m
+[1m+++ b/Imre-dev/.idea/libraries/Gradle__android_arch_lifecycle_runtime_1_1_1.xml[m
+[36m@@ -1,8 +1,8 @@[m
+ <component name="libraryTable">[m
+   <library name="Gradle: android.arch.lifecycle:runtime-1.1.1">[m
+     <CLASSES>[m
+[31m-      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/5dd03c2c738de9695e9e34b827a8c763/res" />[m
+[31m-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/5dd03c2c738de9695e9e34b827a8c763/jars/classes.jar!/" />[m
+[32m+[m[32m      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/d9cbea79031391f4a71c9f1afec4a3dc/jars/classes.jar!/" />[m
+[32m+[m[32m      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/d9cbea79031391f4a71c9f1afec4a3dc/res" />[m
+     </CLASSES>[m
+     <JAVADOC />[m
+     <SOURCES>[m
+[1mdiff --git a/Imre-dev/.idea/libraries/Gradle__android_arch_lifecycle_viewmodel_1_1_1.xml b/Imre-dev/.idea/libraries/Gradle__android_arch_lifecycle_viewmodel_1_1_1.xml[m
+[1mindex 7536b50..585a440 100644[m
+[1m--- a/Imre-dev/.idea/libraries/Gradle__android_arch_lifecycle_viewmodel_1_1_1.xml[m
+[1m+++ b/Imre-dev/.idea/libraries/Gradle__android_arch_lifecycle_viewmodel_1_1_1.xml[m
+[36m@@ -1,8 +1,8 @@[m
+ <component name="libraryTable">[m
+   <library name="Gradle: android.arch.lifecycle:viewmodel-1.1.1">[m
+     <CLASSES>[m
+[31m-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/f402ad32b5caf9889615e7b706851f27/jars/classes.jar!/" />[m
+[31m-      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/f402ad32b5caf9889615e7b706851f27/res" />[m
+[32m+[m[32m      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/11892a3386e4bdef7d61cbcc9234afe0/res" />[m
+[32m+[m[32m      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/11892a3386e4bdef7d61cbcc9234afe0/jars/classes.jar!/" />[m
+     </CLASSES>[m
+     <JAVADOC />[m
+     <SOURCES>[m
+[1mdiff --git a/Imre-dev/.idea/libraries/Gradle__com_android_support_animated_vector_drawable_28_0_0_alpha3.xml b/Imre-dev/.idea/libraries/Gradle__com_android_support_animated_vector_drawable_28_0_0_alpha3.xml[m
+[1mindex c951bf2..94d13d2 100644[m
+[1m--- a/Imre-dev/.idea/libraries/Gradle__com_android_support_animated_vector_drawable_28_0_0_alpha3.xml[m
+[1
